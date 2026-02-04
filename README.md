@@ -67,7 +67,7 @@ Global Pooling → Output [525×1]
 
 
 
-## 💻 Usage
+##  Usage
 
 ### 1. Audio Preprocessing
 
@@ -294,7 +294,7 @@ R_j = Σ_k (α_jw_jk / Σ_a,j α_jw_jk) · R_k
 5. **Transfer learning**: Limited success on small datasets
 
 
-## 📚 Technical Details
+##  Technical Details
 
 ### Segment Processing
 
